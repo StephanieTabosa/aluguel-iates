@@ -9,5 +9,5 @@
 ![github-readme](https://user-images.githubusercontent.com/41654616/118171972-3a8a2b80-b402-11eb-9ab2-a48192e5e0a5.png)
 
 <h4 align="center"> 
-	  1/5 pages
+	  1/1 pages
 </h4>
