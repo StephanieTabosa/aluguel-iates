@@ -6,7 +6,8 @@
 	  HTML5, CSS3 🚀
 </h4>
 
-![github-readme](https://user-images.githubusercontent.com/41654616/118171972-3a8a2b80-b402-11eb-9ab2-a48192e5e0a5.png)
+![screen-site](https://user-images.githubusercontent.com/41654616/120228538-b4534f00-c221-11eb-9adb-471910237c71.png)
+
 
 <h4 align="center"> 
 	  1/1 pages
